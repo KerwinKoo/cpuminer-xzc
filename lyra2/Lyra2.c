@@ -21,7 +21,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include <immintrin.h>
+//#include <immintrin.h>
 #include "Lyra2.h"
 #include "Sponge.h"
 
